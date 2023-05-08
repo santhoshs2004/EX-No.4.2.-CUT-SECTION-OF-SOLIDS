@@ -43,6 +43,11 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![Santhosh 4 2_page-0001](https://user-images.githubusercontent.com/129157717/236742272-ce6c0e38-5492-46be-8142-b3bfcf2ccb36.jpg)
+
+
+
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
